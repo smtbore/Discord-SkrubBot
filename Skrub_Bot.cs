@@ -80,7 +80,7 @@ namespace Skrub_Bot
                 // Bot token to the server
                 discord.ExecuteAndWait(async () =>
                 {
-                    await discord.Connect("Mjc2NzU3MjMyNjY4OTAxMzc2.C3T6JQ.PPrOl1s_dhNzKxZvWjJcZeYF3IM", TokenType.Bot);
+                    await discord.Connect("", TokenType.Bot);
                 });
             }
 
