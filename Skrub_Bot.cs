@@ -46,7 +46,7 @@ namespace Skrub_Bot
                     .Do(async (e) =>
                     {
                         await e.Channel.SendMessage("No-one really knows what Pix is. We don't even know how" +
-                            " he got into Sparta in the first place. What we do know however is: He's a Scouser :nauseated_face:" +
+                            " he got into Sparta in the first place. What we do know however is: He's not The Stig" +
                             " and can only communicate through Burping and Morse code by tapping his Mic. He is also" +
                             " **__the biggest Skrub__** of all.");
                     });
